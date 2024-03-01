@@ -91,7 +91,7 @@ function EducationTimeline() {
             <dialog id="my_modal_5" className="modal">
               <div className="modal-box text-left">
                 <h3 className="font-bold text-lg mb-3">
-                  University of Houston | Houston, US
+                  VNRVJIET | Hyderabad, India
                 </h3>
                 <ul className="list-disc px-6">
                   <li>GPA: 3.73</li>
