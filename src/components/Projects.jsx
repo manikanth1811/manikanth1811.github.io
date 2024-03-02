@@ -203,37 +203,6 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="card w-80 rounded-lg transform transition duration-500 hover:scale-105 shadow-xl">
-          <figure>
-            <img
-              src="/projectAnimations/TicTacToe.png"
-              alt="AlgoViz"
-              className="h-[10rem]"
-            />
-          </figure>
-          <div className="card-body pt-2">
-            <h2 className="card-title">Tic Tac Toe</h2>
-            <p className="pb-[1.5rem]">Simple TicTacToe game built using JS.</p>
-            <div className="card-actions justify-evenly">
-              <a
-                href="https://github.com/manikanth1811/Tic-Tac-Toe-Odin-Project"
-                target="_blank"
-              >
-                <button className="btn btn-primary px-5 w-[8rem] md:w-[6rem]">
-                  Code
-                </button>
-              </a>
-              <a
-                href="https://manikanth1811.github.io/Tic-Tac-Toe-Odin-Project/"
-                target="_blank"
-              >
-                <button className="btn btn-primary px-5 w-[8rem]">
-                  Live Site
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   );
