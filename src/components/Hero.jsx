@@ -17,6 +17,9 @@ function TypingAnimation() {
           () => setTextColor("text-secondary"),
           "Full Stack Developer",
           1000,
+          () => setTextColor("text-primary"),
+          "Software Engineer",
+          () => setTextColor("text-secondary"),
         ]}
         wrapper="span"
         cursor={true}
@@ -40,9 +43,13 @@ export default function Hero() {
           <div className="max-w-lg">
             <TypingAnimation />
           </div>
-          <p className="max-w-md py-4 text-md">
-            I love building interactive websites
-          </p>
+          <div className="flex justify-center">
+            <p className="max-w-lg py-4 text-md lg:text-center text-center">
+              I'm a web developer who loves creating interactive websites and
+              exploring new web technologies. In my spare time, I enjoy solving
+              LeetCode problems, and learning new computer science concepts.
+            </p>
+          </div>
           <div className="flex gap-6 justify-center">
             <a href="#contactMe">
               <button className="btn btn-primary">Contact Me</button>

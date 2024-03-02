@@ -76,17 +76,17 @@ export default function Navbar({}) {
         <div className="w-[100%] flex justify-center">
           <ul className="menu menu-horizontal w-[60%] px-4 flex gap-6 justify-evenly">
             <li>
-              <a className="text-md" href="#experience">
+              <a className="text-md font-bold" href="#experience">
                 Experience
               </a>
             </li>
             <li>
-              <a className="text-md" href="#education">
+              <a className="text-md font-bold" href="#education">
                 Education
               </a>
             </li>
             <li>
-              <a className="text-md" href="#projects">
+              <a className="text-md font-bold" href="#projects">
                 Projects
               </a>
             </li>
