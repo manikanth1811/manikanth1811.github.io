@@ -132,7 +132,7 @@ function ExperienceTimeline() {
             </svg>
           </div>
           <div className="timeline-start md:text-end mb-10">
-            <time className="font-mono italic">May 2023 - Current</time>
+            <time className="font-mono italic">May 2023 - May 2024</time>
             <div className="text-lg font-black">University of Houston</div>
             <div className="text-sm font-extrathin">
               Instructional Assistant
@@ -149,12 +149,13 @@ function ExperienceTimeline() {
                   University of Houston | Houston, US
                 </h3>
                 <ul className="list-disc px-6">
-                  <li>Designed Course Webpage using HTML, CSS on Canvas.</li>
                   <li>
-                    Helped Professor organize the study material for the course.
+                    Created a course website for easy access to materials and
+                    improved communication, boosting student engagement by 40%.
                   </li>
                   <li>
-                    Helped Professor in organizing and evaluating assignment.
+                    Developed a web interface to collect and evaluate student
+                    answers, reducing manual work by 80%.
                   </li>
                 </ul>
               </div>
@@ -205,19 +206,24 @@ function ExperienceTimeline() {
                     consistency across teams.
                   </li>
                   <li>
-                    Developed a Slack-integrated RESTful API with Express.js,
-                    automating tasks and saving 5-10 hours weekly for the team.
+                    Implemented Jest Testing to React Components increasing code
+                    coverage by 10% and decreasing bug-related issues by 50%.
                   </li>
                   <li>
-                    Enhanced React front-end reliability with Vitest automated
-                    tests, reducing bug-related delays by 50% and increasing
-                    coverage by 9%.
+                    Configured authentication and authorization mechanisms using
+                    OAuth 2.0 and JWT, enhancing security and user experience
+                    for internal applications.
                   </li>
                   <li>
                     Implemented Python-based AWS Lambda and GCP Cloud functions
-                    to quickly identify and debug application issues, reducing
+                    to identify and debug application issues quickly, reducing
                     downtime during outages. Resulted in a 50% decrease in
                     downtime.
+                  </li>
+                  <li>
+                    Monitored and debugged real-time issues in live applications
+                    using Dynatrace, GCP Logging, Site 24x7, and Pagerduty,
+                    resulting in a 20% increase in application up-time.
                   </li>
                 </ul>
               </div>
@@ -263,15 +269,19 @@ function ExperienceTimeline() {
                 </h3>
                 <ul className="list-disc px-6">
                   <li>
-                    Optimized database queries in collaboration with the
-                    database team, achieving a 30% reduction in query times and
-                    enhancing website performance.
+                    Collaborated with team to migrate from traditional CI/CD
+                    processes to GitOps for faster and more reliable
+                    deployments.
                   </li>
                   <li>
-                    Built and deployed a Flask application to send Kubernetes
-                    deployment status back to the GitHub commit that triggered
-                    the CI/CD process, resulting in greater deployment
-                    visibility.
+                    Implemented, and Deployed a RESTful API service with Node JS
+                    and Express JS to automate manual tasks in Slack saving 5 hr
+                    of manual work per week.
+                  </li>
+                  <li>
+                    Migrated React Class components to React Functional
+                    components improving code readability and code performance
+                    by 8%.
                   </li>
                 </ul>
               </div>

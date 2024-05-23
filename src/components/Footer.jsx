@@ -10,7 +10,7 @@ export default function Footer() {
     <div class="footer-div min-w-full h-[7%] lg:h-[5%] flex items-start lg:items-center pt-2 lg:pt-1 justify-center border-t-2 border-secondary">
       <div class="copyright flex items-end">
         <span class="pr-1 font-medium">Copyright @</span>
-        <span class="pl-1 font-medium mr-1"> 2023 Manikanth</span>
+        <span class="pl-1 font-medium mr-1"> Manikanth</span>
       </div>
       <div class="github-icon">
         <a
